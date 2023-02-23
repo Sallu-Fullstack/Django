@@ -1,0 +1,4 @@
+Acrivate : (denv) C:\Salman-Django\blog>denv\Scripts\activate
+Start App: (denv) C:\Salman-Django\blog>python manage.py startapp blogapp
+Run Server: (denv) C:\Salman-Django\blog>python manage.py run server   
+
